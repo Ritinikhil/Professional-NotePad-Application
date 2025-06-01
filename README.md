@@ -14,7 +14,11 @@ A comprehensive, AI-powered text editor with advanced document processing capabi
 - **Alignment Options**: Left, center, right, and justify text alignment  
 - **Smart Bullets**: Multiple bullet styles including numbered and custom symbol lists  
 - **Symbol & Emoji Library**: 100+ symbols and emojis for enhanced document creation  
-- **Hyperlink Support**: Insert and manage clickable web links within documents  
+- **Hyperlink Support**: Insert and manage clickable web links within documents
+  ![Screenshot (145)](https://github.com/user-attachments/assets/ac0583cb-f5ba-43a8-909e-28fc6da400c5)
+
+  ![Screenshot (139)](https://github.com/user-attachments/assets/c80fd099-b895-42a2-88e0-fdddcef3ce51)
+
 
 ### 🔧 Advanced Text Processing
 
@@ -38,7 +42,9 @@ A comprehensive, AI-powered text editor with advanced document processing capabi
 - **PDF Merging**: Combine multiple PDFs into single documents  
 - **Password Protection**: Add and remove password security from PDFs  
 - **PDF to DOCX**: Convert PDFs to Word documents with OCR support  
-- **Image to PDF**: Convert image files to PDF format  
+- **Image to PDF**: Convert image files to PDF format
+![Screenshot (141)](https://github.com/user-attachments/assets/0fa35d40-d39a-4173-9142-351d56da8599)
+
 
 ### 🔒 Security & Encryption
 
@@ -62,7 +68,9 @@ A comprehensive, AI-powered text editor with advanced document processing capabi
 - **Grammar Scoring**: AI-powered grammar assessment and scoring  
 - **Tone Analysis**: Sentiment and subjectivity analysis of written content  
 - **Plagiarism Detection**: Content originality checking and verification  
-- **PDF Report Generation**: Professional analysis reports in PDF format  
+- **PDF Report Generation**: Professional analysis reports in PDF format
+  ![Screenshot (140)](https://github.com/user-attachments/assets/d3c3c432-4ea8-4077-982c-b2a0b9b93923)
+
 
 ### 🎨 User Interface & Experience
 
@@ -94,7 +102,9 @@ A comprehensive, AI-powered text editor with advanced document processing capabi
 - **Print Support**: Direct printing capabilities with formatting preservation  
 - **Voice Control**: Text-to-speech with customizable voice options  
 - **Quick Access**: Toolbar shortcuts for frequently used features  
-
+- **Extensions**: Download Extension based applications securely
+  ![Screenshot (142)](https://github.com/user-attachments/assets/44227786-11c7-43dc-8fcf-bf843fddd489)
+ 
 ### 📱 Advanced Functionality
 
 - **OCR Text Extraction**: Extract text from images and scanned documents  
@@ -102,6 +112,9 @@ A comprehensive, AI-powered text editor with advanced document processing capabi
 - **Cloud Backup**: Automatic cloud backup and synchronization  
 - **Multi-language Support**: Support for multiple languages in OCR and processing  
 - **Professional Reports**: Generate detailed analysis reports for documents  
+
+![Screenshot (139)](https://github.com/user-attachments/assets/9f536870-d73e-4659-ab66-3cdf694fddb5)
+![Screenshot (140)](https://github.com/user-attachments/assets/30672a54-0fc3-4d22-87bf-3b72d926801e)
 
 ---
 
