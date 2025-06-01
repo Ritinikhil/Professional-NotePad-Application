@@ -114,7 +114,6 @@ A comprehensive, AI-powered text editor with advanced document processing capabi
 - **Professional Reports**: Generate detailed analysis reports for documents  
 
 ![Screenshot (139)](https://github.com/user-attachments/assets/9f536870-d73e-4659-ab66-3cdf694fddb5)
-![Screenshot (140)](https://github.com/user-attachments/assets/30672a54-0fc3-4d22-87bf-3b72d926801e)
 
 ---
 
